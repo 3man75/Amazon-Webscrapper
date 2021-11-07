@@ -1,9 +1,7 @@
 import webbrowser
 import requests
 from bs4 import BeautifulSoup
-import time
-import datetime
-import smtplib
+
 
 
 def print_hi(name):
