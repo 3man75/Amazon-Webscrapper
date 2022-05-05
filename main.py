@@ -25,18 +25,3 @@ if __name__ == '__main__':
     title = soup2.find (id="productTitle") #note to self: What type of data is the title object here? Find out.
 
     print(page.text)
-
-   # print(soup2.find_all(string='productTitle')) #print the title of the prouduct on Amazon
-
-
-
-    
-   # price = soup2.find(id='priceblodk_ourprice').get_text()
-    
-    # print(price)
-    
-
-   
-    
-
-    
